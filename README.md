@@ -1,3 +1,4 @@
 # demo-repo
 
-demo repo for learnign git and github
+demo repo for learning git and github
+checkin the update
